@@ -1,0 +1,24 @@
+.btn-orange {
+	background-color: #FD9168;
+	color: white;
+	font-family: 'Roboto', sans-serif;
+	padding: 15px 20px;
+	border-radius: 5px;
+}
+.btn-orange:hover {
+	background-color: #8377CD;
+	color: white;
+}
+
+.btn-purple {
+	background-color: #8377CD;
+	color: white;
+	font-family: 'Roboto', sans-serif;
+	padding: 15px 20px;
+	border-radius: 5px;
+}
+
+.btn-purple:hover {
+	background-color: #FD9168;
+	color: white;
+}
